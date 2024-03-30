@@ -1,0 +1,5 @@
+front_sections:FL,FC,FR
+central_sections:FC,CL1,CR1,CL2,CR2
+good_view_sections:FL,FC,FR,CL1,CR1
+cheap_sections:CFL,BL,CL2,CR2,BR,CFR
+all_sections:FL,FC,FR,CFL,CL1,CR1,CFR,BL,CL2,CR2,BR
